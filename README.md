@@ -14,7 +14,7 @@ https://github.com/dmmq20/final-be
 - Fast API
 - Python
 - PostgreSQL
-- Vue 3
+- Vue,js
 - Yjs
 - Tip Tap
 
